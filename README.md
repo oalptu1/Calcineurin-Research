@@ -23,7 +23,7 @@ The general workflow includes:
 2. Protein and ligand preparation
 3. Ligand parameterization using Antechamber
 4. AMBER topology and coordinate generation using tleap
-5. Molecular dynamics trajectory preparation and analysis
+5. Molecular dynamics trajectory analysis
 6. MM/GBSA binding-energy calculations
 7. Per-residue energy decomposition
 8. Structural and residue-level analysis using ProDy and related tools
