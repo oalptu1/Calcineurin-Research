@@ -46,6 +46,10 @@ The workflows make use of:
 - Python
 - PyMOL
 
+## Important Note
+
+In some source/intermediate 6TZ6 structures, FK506 is labeled as UNK. For the Amber workflow, the ligand residue name is standardized to FK5.
+
 ## Repository Status
 
 This repository is under active development. Scripts and computational files may be updated as the analysis progresses.
