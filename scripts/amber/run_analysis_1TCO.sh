@@ -9,7 +9,7 @@ set -e
 INPUT_PDB="1TCO_FK506.pdb"
 LIGAND="FK5"
 LIGAND_RESIDUE="629"
-PREFIX="1TCO_FK506"
+PREFIX="FK506"
 
 # ============================================================
 # FILE NAMES
