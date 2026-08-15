@@ -6,7 +6,7 @@ set -e
 # USER-CONFIGURABLE SETTINGS
 # ============================================================
 
-INPUT_PDB="1TCO_FK506_birlesmis_prep.pdb"
+INPUT_PDB="1TCO_FK506.pdb"
 LIGAND="FK5"
 LIGAND_RESIDUE="629"
 PREFIX="1TCO_FK506"
