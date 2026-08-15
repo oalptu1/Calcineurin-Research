@@ -48,7 +48,7 @@ The workflows make use of:
 
 ## Important Note
 
-In some source/intermediate 6TZ6 structures, FK506 is labeled as UNK. For the Amber workflow, the ligand residue name is standardized to FK5.
+In some source and intermediate 6TZ6 structure files, FK506 is labeled as UNK. For the Amber workflow, the ligand residue name is standardized to FK5 to ensure consistent parameterization, topology generation, and downstream analysis.
 
 ## Repository Status
 
