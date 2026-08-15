@@ -6,10 +6,10 @@ set -e
 # USER-CONFIGURABLE SETTINGS
 # ============================================================
 
-INPUT_PDB="1TCO_FK506.pdb"
+INPUT_PDB="1TCO_FK506_complex.pdb"
 LIGAND="FK5"
 LIGAND_RESIDUE="629"
-PREFIX="FK506"
+PREFIX="1TCO_FK506"
 
 # ============================================================
 # FILE NAMES
