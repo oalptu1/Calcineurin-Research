@@ -14,8 +14,8 @@ Example:
 ```bash
 conda activate ambertools
 
-bash run_analysis_6TZ6_from_PDB.sh \
-  6TZ6_FK506_MASTER_MAESTRO_PREP.pdb \
+bash run_analysis_6TZ6.sh \
+  6TZ6_FK506_MASTER_prep.pdb \
   6TZ6_FK506
 ```
 
