@@ -1,6 +1,6 @@
 ## MM/GBSA analysis
 
-The accompanying shell script starts directly from the prepared PDB file and automatically:
+The accompanying shell scripts start directly from the prepared PDB file and automatically:
 
 1. separates FK506 (`FK5`) from the protein;
 2. assigns AM1-BCC charges and GAFF2 parameters to FK506;
