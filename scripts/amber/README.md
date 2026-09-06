@@ -1,4 +1,4 @@
-## MM/GBSA analysis
+## 6TZ6 MM/GBSA Workflow
 
 The accompanying shell script starts directly from the prepared PDB file and automatically:
 
