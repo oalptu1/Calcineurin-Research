@@ -1,13 +1,13 @@
 ## MM/GBSA analysis
 
-The accompanying shell scripts start directly from the prepared PDB file and automatically:
+The accompanying shell script starts directly from the prepared PDB file and automatically:
 
-1. separate FK506 (`FK5`) from the protein;
-2. assign AM1-BCC charges and GAFF2 parameters to FK506;
-3. build the protein–ligand topology with ff14SB and GAFF2;
-4. verify the expected 6TZ6 chain breaks and perform structural quality-control checks;
-5. generate the complex, receptor, and ligand topologies; and
-6. perform single-snapshot MM/GBSA and per-residue decomposition calculations.
+1. separates FK506 (`FK5`) from the protein;
+2. assigns AM1-BCC charges and GAFF2 parameters to FK506;
+3. builds the protein–ligand topology with ff14SB and GAFF2;
+4. verifies the expected 6TZ6 chain breaks and performs structural quality-control checks;
+5. generates the complex, receptor, and ligand topologies; and
+6. performs single-snapshot MM/GBSA and per-residue decomposition calculations.
 
 Example:
 
