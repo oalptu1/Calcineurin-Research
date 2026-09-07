@@ -40,12 +40,6 @@ The workflows make use of:
 - Python
 - PyMOL
 
-## Repository Status
-
-This repository is under active development. Scripts and computational files may be updated as the analysis progresses.
-
-The current version primarily documents the computational workflow and the structures used in the study.
-
 ## License
 
 No license is currently specified for this repository.
