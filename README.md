@@ -28,12 +28,6 @@ The general workflow includes:
 7. Per-residue energy decomposition
 8. Structural and residue-level analysis using ProDy and related tools
 
-## Scientific Objective
-
-The computational analyses are used to investigate how structural modifications of FK506 affect its interactions with calcineurin.
-
-Particular attention is given to residue-level interactions within the calcineurin B subunit and to changes in energetic contributions associated with FK506 derivatives.
-
 ## Software
 
 The workflows make use of:
