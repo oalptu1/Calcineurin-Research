@@ -14,7 +14,7 @@
 33,Glu,82,Gln
 34,Val,83,Val
 35,Phe,84,Phe
-36,Pro,85,Tyr
+36,Asp,85,Tyr
 37,Asn,86,Pro
 38,Asp,87,Asn
 39,Gly,88,Gly
@@ -89,7 +89,7 @@
 108,Pro,157,Pro
 109,Ala,158,Ala
 110,Asn,159,Ser
-111,Thr,160,Tr
+111,Thr,160,Thr
 112,Arg,161,Lys
 113,Tyr,162,Tyr
 114,Leu,163,Leu
@@ -159,7 +159,7 @@
 178,Cys,227,Cys
 179,Met,228,Leu
 180,Asp,229,Val
-181,Ala,230,Ala
+181,Ala,230,Ser
 182,Phe,231,Phe
 183,Asp,232,Asn
 184,Cys,233,Ala
@@ -216,7 +216,7 @@
 235,Pro,284,Pro
 236,Leu,285,Ile
 237,Glu,286,Glu
-238,Asp,287,Asp
+238,Asp,287,Glu
 239,Phe,288,Tyr
 240,Gly,289,Asp
 241,Asn,290,Asp
@@ -226,7 +226,7 @@
 245,Gln,294,Asp
 246,Glu,295,Gln
 247,His,296,Glu
-248,Phe,297,Phe
+248,Phe,297,Tyr
 249,Thr,298,Val
 250,His,299,Thr
 251,Asn,300,Asn
@@ -239,7 +239,7 @@
 258,Tyr,307,Phe
 259,Phe,308,Ala
 260,Tyr,309,Phe
-261,Ser,310,Ser
+261,Ser,310,Thr
 262,Tyr,311,Tyr
 263,Pro,312,Lys
 264,Ala,313,Ala
@@ -341,7 +341,7 @@
 360,Lys,409,Lys
 361,Val,410,Val
 362,Thr,411,Thr
-363,Glu,412,Glu
+363,Glu,412,Asp
 364,Met,413,Met
 365,Leu,414,Leu
 366,Val,415,Val
